@@ -19,11 +19,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://lipangza.github.io/'
+      url: 'https://lipangza.github.io/home/'
     },
     {
       text: '博客',
-      url: 'https://lipangza.github.io/blog'
+      url: 'https://lipangza.github.io/'
     },
     {
       text: 'GitHub',
